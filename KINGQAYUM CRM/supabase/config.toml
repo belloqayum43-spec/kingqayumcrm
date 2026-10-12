@@ -1,0 +1,4 @@
+project_id = "kingqayum-crm"
+
+[functions.workspace-admin]
+verify_jwt = true
